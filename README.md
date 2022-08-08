@@ -6,7 +6,7 @@
 
 测试端
 
-![](https://typora-images-qz.oss-cn-beijing.aliyuncs.com/img/image-20220808123919351.png)
+![image-20220808140649366](https://typora-images-qz.oss-cn-beijing.aliyuncs.com/img/image-20220808140649366.png)
 
 ## 总体设计
 

@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "head.h": "c",
+        "fcntl.h": "c",
+        "client_discover.h": "c",
+        "stdlib.h": "c",
+        "udp_client.h": "c",
+        "udp_server.h": "c",
+        "heart_beat.h": "c",
+        "send_chat.h": "c",
+        "reactor.h": "c",
+        "wechat.h": "c",
+        "limits": "c",
+        "types.h": "c",
+        "typesizes.h": "c",
+        "time64.h": "c",
+        "typeinfo": "c",
+        "stdio.h": "c",
+        "pthread.h": "c",
+        "chat_ui.h": "c",
+        "ncurses.h": "c",
+        "epoll.h": "c",
+        "time.h": "c"
+    }
+}
